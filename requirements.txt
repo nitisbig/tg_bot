@@ -1,0 +1,9 @@
+fastapi
+python-dotenv
+uvicorn
+langgraph
+langchain
+langchain[google-genai]
+pyTelegramBotAPI
+requests
+pydantic
